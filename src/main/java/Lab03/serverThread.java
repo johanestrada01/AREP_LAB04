@@ -26,6 +26,7 @@ public class serverThread extends Thread{
     @Override
     public void run(){
         try {
+            System.out.println("New thread");
             PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
             String[] dataPage = readInput(in).split(" ");
