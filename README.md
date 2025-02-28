@@ -49,7 +49,7 @@ Se incluyen clases de prueba para que el usuario observe el uso del framework.
 
 ### Despliegue
 
-![Prueba](https://drive.google.com/file/d/1JuBy2K3OKNBWesNiCiyoS-ElvTKLIR39/view?usp=drive_link)
+![Prueba](https://github.com/johanestrada01/AREP_LAB04/blob/main/src/main/java/Lab03/files/Sin%20nombre.png)
 
 ### Automatizadas
 - Ejecutar con:
